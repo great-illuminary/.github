@@ -19,6 +19,8 @@ Multiverse resources to elevate your journey into the TCGs such as Libraries, Di
 
 ## Top Repositories -
 
+[![Lorcana API](https://github-readme-stats.vercel.app/api/pin/?username=great-illuminary&repo=lorcana-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/great-illuminary/lorcana-api)
+
 [![Lorcana Discord](https://github-readme-stats.vercel.app/api/pin/?username=great-illuminary&repo=lorcana-discord&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/great-illuminary/lorcana-discord)
 
 [![Lorcana Data](https://github-readme-stats.vercel.app/api/pin/?username=great-illuminary&repo=lorcana-data&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/great-illuminary/lorcana-data)
